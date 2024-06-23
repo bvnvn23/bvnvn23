@@ -12,4 +12,4 @@
 
 # Techstack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,cpp,cmake,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,unreal)](https://skillicons.dev)
