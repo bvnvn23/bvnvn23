@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**bvnvn23/bvnvn23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Oscar!
 
-Here are some ideas to get you started:
+🎓 I'm a Computer Science student with a passion for C++ development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Currently, I'm working on a 2D game engine with my college colleagues, diving deep into game development and engine design.
+
+💻 I'm always eager to learn new technologies and improve my coding skills.
+
+🚀 Check out my projects and feel free to reach out for collaboration or discussion!
+
+# Techstack:
+
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,cmake,unreal)](https://skillicons.dev)
