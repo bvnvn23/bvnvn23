@@ -4,4 +4,4 @@ Hi, I'm Oscar, an aspiring Web Developer and a Computer Science student with an 
 
 # Techstack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
