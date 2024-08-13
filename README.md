@@ -1,7 +1,7 @@
 # Hi! 👋
 
-Hi, I'm Oscar, an aspiring Game Developer, also a Computer Science student with an insatiable passion for games and programming. 🎮💻 Right now, I'm working with my college buddies to create a 2D game engine using Raylib and Flecs, diving headfirst into the wonderful chaos of game development and engine design. When I'm not glued to my screen, you can find me swinging swords and pretending to be a medieval knight in Historical European Martial Arts (HEMA) – it's a blast! ⚔️🤺 I hope you enjoy exploring my projects, and if you'd like to get in touch, feel free to reach out via LinkedIn or email.
+Hi, I'm Oscar, an aspiring Web Developer and a Computer Science student with an insatiable passion for coding and building websites. 🌐💻 Currently, I'm gaining hands-on experience through an internship at a small software house, where I'm diving headfirst into the wonderful chaos of front-end and back-end development. When I'm not glued to my screen, you can find me swinging swords and pretending to be a medieval knight in Historical European Martial Arts (HEMA) – it's a blast! ⚔️🤺 I hope you enjoy exploring my projects, and if you'd like to get in touch, feel free to reach out via LinkedIn or email.
 
 # Techstack:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,unreal,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,css,html)](https://skillicons.dev)
